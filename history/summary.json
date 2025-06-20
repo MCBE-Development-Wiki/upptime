@@ -4,17 +4,19 @@
     "url": "https://wiki.mcbe-dev.net",
     "icon": "https://icons.duckduckgo.com/ip3/wiki.mcbe-dev.net.ico",
     "slug": "bedw",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2089,
-    "timeDay": 2089,
+    "timeDay": 2094,
     "timeWeek": 2089,
     "timeMonth": 2089,
     "timeYear": 2089,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-06-20": 0
+    }
   }
 ]

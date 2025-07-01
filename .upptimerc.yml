@@ -4,7 +4,7 @@ repo: upptime # The name of this repository
 
 sites:
   - name: BEDW
-    url: https://wiki.mcbe-dev.net
+    url: https://wiki.mcbe-dev.net/p/Minecraft%E5%9F%BA%E5%B2%A9%E7%89%88%E5%BC%80%E5%8F%91Wiki
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain

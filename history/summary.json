@@ -4,17 +4,17 @@
     "url": "https://wiki.mcbe-dev.net/p/Minecraft%E5%9F%BA%E5%B2%A9%E7%89%88%E5%BC%80%E5%8F%91Wiki",
     "icon": "https://icons.duckduckgo.com/ip3/wiki.mcbe-dev.net.ico",
     "slug": "bedw",
-    "status": "down",
+    "status": "up",
     "uptime": "17.21%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "94.24%",
+    "uptimeWeek": "99.18%",
+    "uptimeMonth": "99.81%",
     "uptimeYear": "17.21%",
-    "time": 511,
-    "timeDay": 165,
-    "timeWeek": 190,
-    "timeMonth": 223,
-    "timeYear": 511,
+    "time": 510,
+    "timeDay": 114,
+    "timeWeek": 174,
+    "timeMonth": 218,
+    "timeYear": 510,
     "dailyMinutesDown": {
       "2025-06-20": 202,
       "2025-06-21": 32,
@@ -330,7 +330,8 @@
       "2025-07-14": 1440,
       "2025-07-13": 1440,
       "2025-07-12": 1440,
-      "2026-05-15": 115
+      "2026-05-15": 115,
+      "2026-06-16": 83
     }
   }
 ]

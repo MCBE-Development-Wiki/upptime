@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/wiki.mcbe-dev.net.ico",
     "slug": "bedw",
     "status": "up",
-    "uptime": "35.83%",
+    "uptime": "35.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "40.22%",
+    "uptimeYear": "40.50%",
     "time": 339,
-    "timeDay": 82,
-    "timeWeek": 336,
-    "timeMonth": 266,
+    "timeDay": 197,
+    "timeWeek": 323,
+    "timeMonth": 272,
     "timeYear": 178,
     "dailyMinutesDown": {
       "2026-05-06": 284,
@@ -233,7 +233,6 @@
       "2025-10-04": 1440,
       "2025-10-03": 1440,
       "2025-10-02": 1440,
-      "2025-10-01": 1440,
       "2026-05-15": 115,
       "2026-06-16": 83
     }
